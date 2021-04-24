@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['ongui_86',['OnGUI',['../d7/d93/class_bread_and_butter_1_1_tag_drawer.html#abf93797354a0a4e3acca7120ffc303ba',1,'BreadAndButter::TagDrawer']]]
+  ['gotodialogue_81',['GoToDialogue',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#a4444ee80b06735eec928d83ead5d0415',1,'FTools::Dialogue::DialogueControl']]],
+  ['gotodialogueindex_82',['GoToDialogueIndex',['../de/d05/class_f_tools_1_1_dialogue_1_1_read_dialogue.html#a99f60040261f4de3de8980f3a6e13306',1,'FTools::Dialogue::ReadDialogue']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['validate_3c_20t_20_3e_90',['Validate&lt; T &gt;',['../db/d2e/class_bread_and_butter_1_1_runnable_helper.html#a1c9403ac9d23c329c4e64ec7459fc789',1,'BreadAndButter::RunnableHelper']]]
+  ['quicksort_3c_20t_20_3e_86',['QuickSort&lt; T &gt;',['../d5/d5a/class_f_tools_1_1_core_1_1_list_sort_extension.html#a7187e9c1eb3f70af2052fc696b26547e',1,'FTools::Core::ListSortExtension']]]
 ];

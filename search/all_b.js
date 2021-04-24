@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['resetswipe_31',['ResetSwipe',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a1d981cfba441252e1d3ffa6d8a2f1766',1,'BreadAndButter::Mobile::SwipeInput']]],
-  ['run_3c_20t_20_3e_32',['Run&lt; T &gt;',['../db/d2e/class_bread_and_butter_1_1_runnable_helper.html#aa2339d0c22d65c77a592fccb44a55c11',1,'BreadAndButter::RunnableHelper']]],
-  ['runnablebehaviour_33',['RunnableBehaviour',['../d2/d47/class_bread_and_butter_1_1_runnable_behaviour.html',1,'BreadAndButter']]],
-  ['runnablehelper_34',['RunnableHelper',['../db/d2e/class_bread_and_butter_1_1_runnable_helper.html',1,'BreadAndButter']]]
+  ['quicksort_3c_20t_20_3e_41',['QuickSort&lt; T &gt;',['../d5/d5a/class_f_tools_1_1_core_1_1_list_sort_extension.html#a7187e9c1eb3f70af2052fc696b26547e',1,'FTools::Core::ListSortExtension']]]
 ];

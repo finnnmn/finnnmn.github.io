@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['generateloot_12',['GenerateLoot',['../d7/d95/class_bread_and_butter_1_1_loot_1_1_loot_table.html#a9bb8bf1bccad25ebe4b972178d4e4dcf',1,'BreadAndButter::Loot::LootTable']]],
-  ['getpropertyheight_13',['GetPropertyHeight',['../d7/d93/class_bread_and_butter_1_1_tag_drawer.html#a6e81b4de7824ed0aa28a02dedfd74f0a',1,'BreadAndButter::TagDrawer']]],
-  ['getswipe_14',['GetSwipe',['../da/d89/class_bread_and_butter_1_1_mobile_1_1_mobile_input.html#abc0ec568dbea970d3444d433b996e064',1,'BreadAndButter.Mobile.MobileInput.GetSwipe()'],['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a6ce8f5452a94277f1d313a00aad5ab9a',1,'BreadAndButter.Mobile.SwipeInput.GetSwipe()']]],
-  ['gyroinput_15',['GyroInput',['../de/dc1/class_gyro_input.html',1,'']]]
+  ['effect_24',['Effect',['../dd/d06/class_f_tools_1_1_dialogue_1_1_dialogue_info.html#a81a9e1c7774e316772f2876c7b585c6d',1,'FTools::Dialogue::DialogueInfo']]],
+  ['enddialogue_25',['EndDialogue',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#a97d3381196beeca87a15eadbeb4ecf60',1,'FTools::Dialogue::DialogueControl']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['irunnable_50',['IRunnable',['../d6/dbc/interface_bread_and_butter_1_1_i_runnable.html',1,'BreadAndButter']]]
+  ['listsearchextension_66',['ListSearchExtension',['../d7/dfa/class_f_tools_1_1_core_1_1_list_search_extension.html',1,'FTools::Core']]],
+  ['listsortextension_67',['ListSortExtension',['../d5/d5a/class_f_tools_1_1_core_1_1_list_sort_extension.html',1,'FTools::Core']]]
 ];

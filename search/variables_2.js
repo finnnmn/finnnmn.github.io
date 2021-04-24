@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['positions_93',['positions',['../d0/da1/class_bread_and_butter_1_1_mobile_1_1_swipe_input_1_1_swipe.html#ac08c902a0c3f498e2675b0ce40e94ba6',1,'BreadAndButter::Mobile::SwipeInput::Swipe']]]
+  ['defaulttypespeed_102',['defaultTypeSpeed',['../de/d05/class_f_tools_1_1_dialogue_1_1_read_dialogue.html#ab1e9e7b2dfdf3d84a6c33b13a4664ef8',1,'FTools::Dialogue::ReadDialogue']]],
+  ['dialoguetext_103',['dialogueText',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#a09d8bae39cdcc8f1020b0b95221a1342',1,'FTools::Dialogue::DialogueControl']]]
 ];

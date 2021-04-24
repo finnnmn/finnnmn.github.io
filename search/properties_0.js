@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['axis_94',['Axis',['../d3/de0/class_bread_and_butter_1_1_mobile_1_1_joystick_input.html#a1f5699951a70c7816f45c59f69eb1279',1,'BreadAndButter::Mobile::JoystickInput']]]
+  ['choicecount_109',['ChoiceCount',['../dd/d06/class_f_tools_1_1_dialogue_1_1_dialogue_info.html#a3e24c771c530f648048c49f5d1953789',1,'FTools::Dialogue::DialogueInfo']]],
+  ['choices_110',['Choices',['../dd/d06/class_f_tools_1_1_dialogue_1_1_dialogue_info.html#a3b92699d06bf7a62500ce1a251cd9d70',1,'FTools::Dialogue::DialogueInfo']]]
 ];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['calculateflick_76',['CalculateFlick',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#aadfaf3463c5b612a95b0d7052911829c',1,'BreadAndButter::Mobile::SwipeInput']]],
-  ['createinstance_77',['CreateInstance',['../d4/db0/class_bread_and_butter_1_1_mono_singleton.html#a1e09b8af80f2f5b74bfebc3b54850e0e',1,'BreadAndButter::MonoSingleton']]]
+  ['addeffecttobutton_73',['AddEffectToButton',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#ac2e9c2a69d19d65d497cfce0784ad251',1,'FTools::Dialogue::DialogueControl']]],
+  ['advancedialogue_74',['AdvanceDialogue',['../de/d05/class_f_tools_1_1_dialogue_1_1_read_dialogue.html#a111382cc08eb1bdc8cf817f56342afe0',1,'FTools::Dialogue::ReadDialogue']]]
 ];

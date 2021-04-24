@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['resetswipe_87',['ResetSwipe',['../d4/d51/class_bread_and_butter_1_1_mobile_1_1_swipe_input.html#a1d981cfba441252e1d3ffa6d8a2f1766',1,'BreadAndButter::Mobile::SwipeInput']]],
-  ['run_3c_20t_20_3e_88',['Run&lt; T &gt;',['../db/d2e/class_bread_and_butter_1_1_runnable_helper.html#aa2339d0c22d65c77a592fccb44a55c11',1,'BreadAndButter::RunnableHelper']]]
+  ['instancedialogueaction_83',['InstanceDialogueAction',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#aad921c618da7f49b41b0dfba2ab22e81',1,'FTools::Dialogue::DialogueControl']]],
+  ['instancestartdialogue_84',['InstanceStartDialogue',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#ade08f27aca03bc48f1f7a2d6615485bc',1,'FTools::Dialogue::DialogueControl']]]
 ];

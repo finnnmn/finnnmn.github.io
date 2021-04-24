@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['axis_0',['Axis',['../d3/de0/class_bread_and_butter_1_1_mobile_1_1_joystick_input.html#a1f5699951a70c7816f45c59f69eb1279',1,'BreadAndButter::Mobile::JoystickInput']]]
+  ['addeffecttobutton_0',['AddEffectToButton',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#ac2e9c2a69d19d65d497cfce0784ad251',1,'FTools::Dialogue::DialogueControl']]],
+  ['advance_1',['advance',['../de/d05/class_f_tools_1_1_dialogue_1_1_read_dialogue.html#abe717badc88fedef001e47f607704d66',1,'FTools::Dialogue::ReadDialogue']]],
+  ['advancedialogue_2',['AdvanceDialogue',['../de/d05/class_f_tools_1_1_dialogue_1_1_read_dialogue.html#a111382cc08eb1bdc8cf817f56342afe0',1,'FTools::Dialogue::ReadDialogue']]]
 ];
