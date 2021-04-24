@@ -8,6 +8,5 @@ var searchData=
   ['dialogueinfo_19',['DialogueInfo',['../dd/d06/class_f_tools_1_1_dialogue_1_1_dialogue_info.html',1,'FTools::Dialogue']]],
   ['dialogueinfodrawer_20',['DialogueInfoDrawer',['../df/d13/class_f_tools_1_1_dialogue_1_1_dialogue_info_drawer.html',1,'FTools::Dialogue']]],
   ['dialogueobject_21',['DialogueObject',['../d2/d00/class_f_tools_1_1_dialogue_1_1_dialogue_object.html',1,'FTools::Dialogue']]],
-  ['dialogueobjecteditor_22',['DialogueObjectEditor',['../dc/dda/class_f_tools_1_1_dialogue_1_1_dialogue_object_editor.html',1,'FTools::Dialogue']]],
-  ['dialoguetext_23',['dialogueText',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#a09d8bae39cdcc8f1020b0b95221a1342',1,'FTools::Dialogue::DialogueControl']]]
+  ['dialoguetext_22',['dialogueText',['../dc/dee/class_f_tools_1_1_dialogue_1_1_dialogue_control.html#a09d8bae39cdcc8f1020b0b95221a1342',1,'FTools::Dialogue::DialogueControl']]]
 ];
